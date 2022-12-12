@@ -26,7 +26,7 @@ This notebook contains a method for removing all of the single-source islands fr
 
 *Code:* 3. Creating Preliminary Training Set from MeerKAT.ipynb
 
-This notebook contains an initial attempt to use the source tables containing only MSIs produced by the above method to create cutouts from the MeerKAT FITS files for a training set for our neural networks. 
+This notebook contains an initial attempt to use the source tables containing only MSIs produced by the above method to create cutouts from the MeerKAT FITS files for a training set for our neural networks, with an example MSI chosen arbitrarily.
 
 ### 4. Investigating more of the properties of the Aegean Source Tables
 
