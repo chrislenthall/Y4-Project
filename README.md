@@ -20,7 +20,7 @@ This notebook contains an initial assessment into the structure of the source ta
 
 *Code:* 2. Flattening the source tables.ipynb
 
-This notebook contains a method for removing all of the single-source islands from an arbitrarily chosen source table (operating under the assumption that the most interesting sources such as radio galaxies will be represented as islands with >1 source). It includes two methods, one which preserves a single coordinate per island (selected randomly), and a second improved method which computes the average coordinate value for each multi-source island (MSI), allowing for better cutouts (see notebook 3).
+This notebook contains a method for removing all of the single-source islands from an arbitrarily chosen source table (operating under the assumption that the most interesting sources such as radio galaxies will be represented as islands with >1 source). It includes two methods, one which preserves a single coordinate per island (selected randomly), and a second improved method which computes the average coordinate value for each multi-source island (MSI), allowing for better cutouts around the centroid of each island (see notebook 3).
 
 ### 3. Creating an initial training set
 
