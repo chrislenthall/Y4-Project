@@ -8,7 +8,7 @@
 
 ***
 
-## **Description of Notebooks:**
+## **Description of Notebooks (semester 1):**
 
 ### 1. Preliminary assessment of the Aegean Source Tables
 
@@ -33,6 +33,34 @@ This notebook contains an initial attempt to use the source tables containing on
 *Code:* 4. Source Table Properties.ipynb
 
 This incomplete notebook contains the initial groundwork for an ongoing investigation into more of the properties of the source tables, specifically data such as the overall distribution of MSIs. This is to help to interrogate the earlier assumption that the most interesting sources are MSIs (see notebook 2).
+
+***
+
+## **Description of Notebooks (semester 2):**
+
+### 4b. Investigating more of the properties of the Aegean Source Tables
+
+*Code:* 4b. Source Table Properties.ipynb
+
+This notebook is the completed version of notebook 4. The distributions of all sources and MSIs are plotted individually, showing that both simple and complex sources are more abundant further from the galactic centre.
+
+### 5. Combining the source catalogues
+
+*Code:* 5. Combined MSI Catalogue.ipynb
+
+This notebook contains a method for combining the 58 individual MSI source catalogues. It also adds a column for frame name, sorts all sources by longitude, and assigns a MeerACS ID number to every MSI.
+
+### 6. Producing MSI cutouts from the whole survey
+
+*Code:* 6. Creating a Full Training Set.ipynb
+
+This notebook contains the method through which the complete set of cutouts was produced. This entailed extracting a list of MSI coordinates for a particular frame from the overall source table, reading in the relevant FITS file, converting from galactic coordinates to matrix coordinates, and looping the cutout routine through these coordinates. The method for normalising these images is also shown.
+
+### 7. Search for object coordinates via MeerACS ID
+
+*Code:* 7. Source Search Function.ipynb
+
+This notebook contains a concise method for finding the coordinates of a particular source by its MeerACS ID, from the overall MSI table. This was used extensively throughout the analysis stage of the project.
 
 ***
 
