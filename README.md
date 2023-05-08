@@ -66,6 +66,8 @@ This notebook contains a concise method for finding the coordinates of a particu
 
 ## Other code/files:
 
+The full MSI source table (overall_MSI_source_table.vot) is uploaded here - the output of Notebook 5.
+
 Saved locally (i.e. **not** in this repository) are other notebooks, created mostly to help aid my understanding of the basic processes involved, such as FITS file manipulation. These were not uploaded due to the fact that most of the results from these are used elsewhere in the aforementioned notebooks. 
 
 Furthermore, the full set of cutouts from the survey are saved locally. Please contact me if these are required. 
