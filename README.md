@@ -1,6 +1,6 @@
 # Y4-Project
 
-## Machine Learning Applications in Radio Astronomy Surveys - Christopher Lenthall, University of Birmingham
+## Machine Learning Applications in Radio Astronomy Surveys and Radio Circles in the MeerKAT GPS - Christopher Lenthall, University of Birmingham
 
 ***
 
